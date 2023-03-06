@@ -7,4 +7,4 @@ do {
   numeros += parseInt(prompt("Ingrese los numeros"));
 } while (confirm("Desea seguir?"));
 
-document.write(numeros);
+document.write("La suma total es " + numeros);
