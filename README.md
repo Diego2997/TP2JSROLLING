@@ -4,4 +4,4 @@ Trabajo practico de bucles y condicionales
 
 ## Autor
 
-1. Diego Mercado [linkedin]()
+1. Diego Mercado
