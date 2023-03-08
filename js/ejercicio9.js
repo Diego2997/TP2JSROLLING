@@ -21,7 +21,8 @@ for (let i = 1; i <= 500; i++) {
     document.write(` es multiplo de 9`);
   }
   if (i % 5 === 0) {
-    document.write("--------------------------------");
+    document.write("<br>");
+    document.write("-----------------------------------------------");
   }
   document.write("<br>");
 }
